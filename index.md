@@ -1,6 +1,7 @@
 ---
 title: Nebulaskaとは
 layout: home
+nav_order: 1
 ---
 
 Nebulaskaとは、統計データの検索エンジンです。

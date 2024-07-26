@@ -1,6 +1,7 @@
 ---
 title: プライバシーポリシー
 layout: home
+nav_order: 5
 ---
 
 # プライバシーポリシー

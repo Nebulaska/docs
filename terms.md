@@ -1,6 +1,7 @@
 ---
 title: 利用規約
 layout: home
+nav_order: 4
 ---
 
 # 利用規約
