@@ -45,5 +45,6 @@ layout: home
 本ポリシーに関するお問い合わせは、以下の連絡先までお願いいたします。
 
 合同会社Aska Intelligence
+
 Email: contact@aska.systems
 
